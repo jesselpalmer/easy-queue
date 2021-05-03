@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "test": "node ./src/queue.spec.js"
+  },
+  "type": "module"
+}
